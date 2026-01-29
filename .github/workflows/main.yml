@@ -17,7 +17,9 @@ jobs:
         uses: r-lib/actions/setup-r@v2
 
       - name: Install dependencies
-        run: Rscript -e 'install.packages("httr2")'
+        run: |
+          sudo apt-get install libudunits2-dev libgdal-dev libgeos-dev libproj-dev # Necesario para sf
+          Rscript -e 'install.packages(c("sf", "dplyr"))'
 
       - name: Run download script
         run: Rscript scripts/download_traffic.R
