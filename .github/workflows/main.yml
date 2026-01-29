@@ -2,7 +2,7 @@ name: Hourly Traffic Update
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Se ejecuta cada hora en punto
+    - cron: '*/15 * * * *'  # Se ejecuta cada hora en punto
   workflow_dispatch:      # Permite ejecutarlo manualmente para probar
 
 jobs:
