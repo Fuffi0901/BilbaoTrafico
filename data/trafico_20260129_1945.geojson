@@ -1,0 +1,90 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="../css/estilo_ie6.css" media="screen">
+	<script defer type="text/javascript" src="../js/pngfix.js"></script>
+<![endif]-->
+
+<title>Bilbao.eus, Bilboko Hiribilduaren web orria - El Web de la Villa de Bilbao - The City of Bilbao Website</title>
+
+<script type="text/javascript" src="/ruxitagentjs_ICA7NVfqrux_10329260115094557.js" data-dtconfig="rid=RID_-1023838882|rpid=533996936|domain=bilbao.eus|reportUrl=/rb_bf60637kqr|app=da8c5be761e4ddeb|owasp=1|featureHash=ICA7NVfqrux|rdnt=1|uxrgce=1|cuc=py288rup|mel=100000|expw=1|dpvc=1|lastModification=1769425326576|postfix=py288rup|tp=500,50,0|srbbv=2|agentUri=/ruxitagentjs_ICA7NVfqrux_10329260115094557.js"></script><link href="/Bilbaonet/css/bio_mantenimiento.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="/Bilbaonet/css/bio_bgimag.css" rel="stylesheet" type="text/css" media="screen" />
+
+</head>
+
+
+
+<body>
+<div id="webcontainer_mant">
+	<h1><img src="/Bilbaonet/img/prehome/logo_bilbao_prehome.jpg" alt="logo de Bilbao.eus" /></h1>
+	<hr />
+	<div id="contenedor_mant">
+			<div class="euskera">
+				<div class="texto_mant" lang="eu">
+					<h2 lang="eu" >Barkatu!</h2>
+					<p class="mediana"><strong>504 Errorea</strong></p>
+					<p>Eskatutako orria ez dago<br /> erabilgarri.</p>
+					<p>Hala nahi izanez gero, aukera<br /> hauetako bat proba dezakezu:</p>
+					<ul>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3000005415&language=eu&pagename=Bilbaonet%2FPage%2FBIO_home" hreflang="eu" lang="eu" accesskey="1"> Bilbao.eus web-gune nagusia</a></li>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3009272091&language=eu&pageid=3009272091&pagename=Bilbaonet%2FPage%2FBIO_BuscadorAvanzado" hreflang="eu" lang="eu" accesskey="2">Bilatzailea</a></li>
+					</ul>
+				</div>
+	  		</div>
+			<hr />
+			<div class="espannol" lang="es">
+				<div class="texto_mant">
+					<h2 lang="es">¡Lo sentimos!</h2>
+					<p class="mediana"><strong>Error 504</strong></p>
+					<p>La p&aacute;gina solicitada no se<br /> encuentra disponible.</p>
+					<p>Si lo desea, puede probar las<br /> siguientes soluciones:</p>
+					<ul>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3000005415&language=es&pagename=Bilbaonet%2FPage%2FBIO_home" hreflang="es" lang="es" accesskey="3"> Página principal de Bilbao.eus</a></li>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3009272091&language=es&pageid=3009272091&pagename=Bilbaonet%2FPage%2FBIO_BuscadorAvanzado" hreflang="es" lang="es" accesskey="4"> Buscador</a></li>
+					</ul>
+				</div>
+			</div>
+			<hr />
+			<div class="english" lang="en">
+				<div class="texto_mant">
+					<h2 lang="en">Sorry!</h2>
+					<p class="mediana"><strong>Error 504</strong></p>
+					<p>The page requested is not<br /> available.</p>
+					<p>If you wish, you can try the<br /> following:</p>
+					<ul>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3000005415&language=en&pagename=Bilbaonet%2FPage%2FBIO_home" hreflang="en" lang="en" accesskey="5">Bilbao.eus homepage</a></li>
+						<li class="flecha"><a href="//www.bilbao.eus/cs/Satellite?c=Page&cid=3009272091&language=en&pageid=3009272091&pagename=Bilbaonet%2FPage%2FBIO_BuscadorAvanzado" hreflang="en" lang="en" accesskey="6">Search engine</a></li>					
+					</ul>
+				</div>
+			</div>
+			<hr />
+			<div class="clear"></div>
+			<div class="ayuntamiento">
+				<span class="float_right">
+					<img src="/Bilbaonet/img/prehome/logo_ayuntamiento_bilbao.jpg" alt="logo del Ayuntamiento de Bilbao"  />				</span>
+				<p class="center">
+					<span lang="eu">Bilboko Udala/</span>
+					<span lang="es">Ayuntamiento de Bilbao /</span>
+					<span lang="en">Bilbao Council</span>				</p>
+				<address class="center" lang="es">Plaza Ernesto Erkoreka <abbr title="N&uacute;mero">nº</abbr>1. 48007 Bilbao - España.</address>
+			</div>
+	</div>
+	<br />
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9510203-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>
