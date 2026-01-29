@@ -2,7 +2,7 @@
 if (!dir.exists("data")) {
   dir.create("data")
 }
-
+options(timeout = 300)
 # Configurar URL y nombre de archivo con timestamp
 url_traf <- "https://www.bilbao.eus/aytoonline/srvDatasetTrafico?formato=geojson"
 # Usamos UTC para evitar líos de zonas horarias en el servidor
